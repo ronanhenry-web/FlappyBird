@@ -5,26 +5,20 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class Medaille : MonoBehaviour
 {
-    public GameObject canvas;
     public GameObject bronzeMedal;
     public GameObject silverMedal;
     public GameObject goldMedal;
     public int score;
 
-    void Start()
-    {
-        canvas.SetActive(false);
-    }
-
     public void OnPlayerDeath()
     {
+        Debug.Log("OnPlayerDeath called, displaying medals.");
         DisplayMedals();
     }
 
     private void DisplayMedals()
     {
-        canvas.SetActive(true);
-
+        Debug.Log("DisplayMedals: Score is " + score);
         goldMedal.SetActive(false);
         silverMedal.SetActive(false);
         bronzeMedal.SetActive(false);
