@@ -1,6 +1,6 @@
 <h1 align="left">Projet Unity 2D / Faire un jeu complet</h1>
 
-<h3 align="left">Installation : pour Run l'application suivre les étapes suivantes :  
+<h3 align="left">Installation : pour Run l'application suivre l'étape suivante :  
 
   - créer un projet Unity puis importer mes fichiers GitHub
 </h3>
