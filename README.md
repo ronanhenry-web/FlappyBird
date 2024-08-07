@@ -1,6 +1,6 @@
-# Projet Unity 2D
+# Projet FlappyBird
 
-Faire un jeu plateformeur complet
+Faire un jeu plateformer complet
 
 ## Démarrer
 
