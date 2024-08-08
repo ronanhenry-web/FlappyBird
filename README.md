@@ -1,4 +1,4 @@
-# Projet FlappyBird
+# Projet Flappy Bird
 
 Faire un jeu plateformer complet
 
