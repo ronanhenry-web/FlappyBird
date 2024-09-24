@@ -1,14 +1,14 @@
-# Projet Flappy Bird
+# Flappy Bird Project
 
-Faire un jeu plateformer complet
+Creating a complete platformer game
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous Unity Hub, pour le démarrer suivre les étapes suivantes.
+The project was created using Unity Hub. To get it running, follow these steps :
 
-- Créer un projet Unity 2D puis importer mes fichiers GitHub (cloner)
+- Create a Unity 2D project, then import the files from my GitHub (clone the repository)
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://unity.com/fr" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/> </a>
 
